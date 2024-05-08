@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+#* text=auto
 # Define a linguagem padrão para arquivos .py como python
 *.py linguist-language=python
