@@ -4,8 +4,3 @@ import pandas as pd
 
 time.sleep(5)
 print(pyautogui.position())
-
-
-
-
-
