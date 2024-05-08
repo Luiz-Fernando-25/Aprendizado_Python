@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.py language:python
-#"Python Power Up"\codigo.py linguist-generated=false
+# Define a linguagem padrão para arquivos .py como python
+*.py linguist-language=python
