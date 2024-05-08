@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.py linguagem:python
+*.py language:python
+#"Python Power Up"\codigo.py linguist-generated=false
